@@ -1,4 +1,4 @@
 R&F Website/
-├── index.html
-├── logo.jpeg
-└── flyer.jpeg
+index.html
+logo.jpeg
+flyer.jpeg
